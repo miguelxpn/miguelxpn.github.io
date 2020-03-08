@@ -23,7 +23,7 @@ email: miguelxpn2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog about programming and nerdy stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://miguelxpn.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.miguelxpn.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: miguelxpn
 github_username:  miguelxpn
 
