@@ -40,7 +40,6 @@ plainwhite:
     linkedIn: in/miguel-xavier-penha-neto-ba583a174
 
 # Build settings
-theme: plainwhite
 remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
