@@ -33,6 +33,7 @@ plainwhite:
   date_format: "%b %-d, %Y"
   sitemap: true
   analytics_id: "UA-72191596-1"
+  portfolio_image:  "assets/portfolio.png"
 
   social_links:
     twitter: miguelxpn
