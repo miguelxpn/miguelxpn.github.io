@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Blog about programming and nerdy stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.miguelxpn.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: miguelxpn
 github_username:  miguelxpn
 
 plainwhite:
@@ -36,7 +35,6 @@ plainwhite:
   portfolio_image:  "assets/portfolio.png"
 
   social_links:
-    twitter: miguelxpn
     github: miguelxpn
     linkedIn: in/miguel-xavier-penha-neto-ba583a174
 
